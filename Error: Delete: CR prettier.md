@@ -1,6 +1,6 @@
-Error Delete CR prettier.md
+# Error Delete CR prettier.md
 
-For this situation:
+## For this situation
 
       mgarg@4746H MINGW64 /d/Repos/SushiJS-Example-01-1 (main)
       $ npm install
@@ -66,14 +66,16 @@ For this situation:
       npm ERR! A complete log of this run can be found in:
       npm ERR!     C:\Users\mgarg\AppData\Local\npm-cache\_logs\2022-08-18T14_30_31_964Z-debug-0.log
       
-Use:
+## Use
 
      For a newbie like me, this is how it is to be done. Open .eslintrc.json present in your root directory (frontend). After changes it will look as under: {   "extends": ["react-app", "prettier"],   "plugins": ["prettier"],   "rules": {     "prettier/prettier": ["error", { "endOfLine": "auto" }]   } } 
 Source: https://stackoverflow.com/questions/53516594/why-do-i-keep-getting-delete-cr-prettier-prettier
 
-Instructions for SushiJS, on source project folder we added:
+## Instructions
+###Instructions for SushiJS, on source project folder we added:
       .eslintrc.json
 and typed:
 {   "extends": ["react-app", "prettier"],   "plugins": ["prettier"],   "rules": {     "prettier/prettier": ["error", { "endOfLine": "auto" }]   } }
 
+## Credits
 Thanks to: Author: https://stackoverflow.com/users/3722884/simpleguy
