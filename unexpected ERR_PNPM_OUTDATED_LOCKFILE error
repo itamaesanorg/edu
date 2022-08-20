@@ -1,0 +1,8 @@
+# unexpected ERR_PNPM_OUTDATED_LOCKFILE error 
+
+ Haneen Mahdin solved this with this command on VS Code:
+
+    pnpm install --frozen-lockfile=false
+[Source](https://github.com/vercel/vercel/issues/8272#issuecomment-1203663180)
+
+Thanks  Haneen Mahdin
