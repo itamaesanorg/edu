@@ -1,4 +1,4 @@
-# Error Delete CR prettier.md
+# Error Delete CR prettier
 
 ## For this situation
 
