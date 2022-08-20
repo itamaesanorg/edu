@@ -22,4 +22,4 @@ Thanks  Haneen Mahdin
 ### We just executed the command into Wri to solve on vercel the upload:    
 
 ## Credits
-Credits to this genius: [Haneen Mahdin](https://github.com/vercel/vercel/issues/8272#issuecomment-1203663180)
+Credits to this genius: [Haneen Mahdin](https://github.com/haneenmahd)
