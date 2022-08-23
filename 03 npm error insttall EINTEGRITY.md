@@ -3,8 +3,6 @@ Scenario: Trying to install from npm any package, I got this error:
 
 Solution: To solve this I execute:
     rm -rf package-lock.json node_modules
-
-Then:
     npm install
 
 Credits: 
