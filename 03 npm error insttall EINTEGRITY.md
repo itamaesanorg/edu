@@ -2,7 +2,11 @@ Scenario: Trying to install from npm any package, I got this error:
 ![npm error insttall EINTEGRITY](https://user-images.githubusercontent.com/5947268/186204815-256978f2-eb8a-4fbc-a768-0891f0775534.png)
 
 Solution: To solve this I execute:
+    
     rm -rf package-lock.json node_modules
+
+Then
+
     npm install
 
 Credits: 
