@@ -8,12 +8,12 @@ Then:
         npm install
 
 Credits: 
-[Das_Geek](https://stackoverflow.com/users/11384392/das-geek)
-[Kodali444](https://stackoverflow.com/users/5168242/kodali444)
+- [Das_Geek](https://stackoverflow.com/users/11384392/das-geek)
+- [Kodali444](https://stackoverflow.com/users/5168242/kodali444)
 
 From:
-[Fix a npm install failure with error code EINTEGRITY](https://stackoverflow.com/questions/49092723/fix-a-npm-install-failure-with-error-code-eintegrity)
+- [Fix a npm install failure with error code EINTEGRITY](https://stackoverflow.com/questions/49092723/fix-a-npm-install-failure-with-error-code-eintegrity)
 
 Related with:
-SUSHIJS ✅ FIXED from npm i sushis
-SUSHIJS BOILERPLATE ✅ FIXED from npm i sushis-demo
+- SUSHIJS ✅ FIXED from npm i sushis
+- SUSHIJS BOILERPLATE ✅ FIXED from npm i sushis-demo
