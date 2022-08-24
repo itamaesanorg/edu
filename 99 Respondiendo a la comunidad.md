@@ -38,7 +38,7 @@ Encontrarás material educativo por si te animas para aprender python o nextjs!
 Además de no lucrarnos, ofrecemos la posibilidad de formarte gratis con nosotros para ayudar a hacer crecer la comunidad de desarrolladores:
 
 Aprende NextJS con ITAMAESAN: Teoria:
- - [How-To-NextJS](https://github.com/itamaesanorg/How-To-NextJS
+ - [How-To-NextJS](https://github.com/itamaesanorg/How-To-NextJS)
 
  - [Aprende NextJS con ITAMAESAN: Ejercicio práctico, web app de noticias](https://github.com/itamaesanorg/news-app)
 
